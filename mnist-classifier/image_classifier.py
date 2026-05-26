@@ -1,8 +1,6 @@
 #!/usr/bin/env python3
 """
-CS5720 Assignment 1: Neural Network Fundamentals
-Student Name: Sai Manojna Velagala
-
+Neural Network Fundamentals
 Starter Code - Build a Neural Network from Scratch
 """
 
