@@ -1,5 +1,5 @@
 """
-CS5720 Assignment 3: RNNs and Transformers
+RNNs and Transformers
 """
 
 import numpy as np
