@@ -1,6 +1,6 @@
 """
-CS5720 Assignment 2: CNN Architecture Implementation
-Starter code for building CNNs from scratch
+CNN Architecture Implementation
+building CNNs from scratch
 """
 import os
 
